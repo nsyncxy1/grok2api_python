@@ -137,13 +137,15 @@ DEFAULT_HEADERS = {
     'Connection': 'keep-alive',
     'Origin': 'https://grok.com',
     'Priority': 'u=1, i',
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
     'Sec-Ch-Ua': '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
     'Sec-Ch-Ua-Mobile': '?0',
     'Sec-Ch-Ua-Platform': '"macOS"',
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
+    'x-statsig-id' : 'u3HZWfr6XPNMwCckGEtjV6U21Hl0EqcRfopZCIJQ2ZqmM1wY0AYTcJeaeV3W/JG3l/ezXLhZRNJlokK4yj6cw8SblCH3uA',
+    'x-xai-request-id' : '668de0cb-838a-45ca-bb6c-29ffc32822b7'
     'Baggage': 'sentry-public_key=b311e0f2690c81f25e2c4cf6d4f7ce1c'
 }
 
